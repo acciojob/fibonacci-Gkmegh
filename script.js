@@ -3,7 +3,7 @@ if(num<=1){
     return num;
   }
   else{
-  return = fib(n-1) + fib(n-2);
+  return = fibonacci(n-1) + fibonacci(n-2);
   }
 }
 
